@@ -6,5 +6,5 @@
         "D:\\Tensorflow\\tfen\\Lib\\site-packages"
     ],
     "python.autoComplete.addBrackets": true,
-
+    "python.linting.pylintArgs": ["--generate -members"]
 }

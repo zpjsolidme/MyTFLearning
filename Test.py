@@ -1,7 +1,7 @@
 '''
 @Author: your name
 @Date: 2019-12-22 22:48:14
-@LastEditTime: 2020-05-03 20:36:23
+@LastEditTime: 2020-05-03 21:04:10
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \Tensorflow\Test\Test.py
@@ -10,7 +10,7 @@ import tensorflow as tf
 
 
 # import tensorflow as tf
-# import cv2
+import cv2
 
 
 print(tf.__version__)
