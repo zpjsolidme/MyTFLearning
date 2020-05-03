@@ -1,0 +1,10 @@
+{
+    //"python.pythonPath": "C:\\Users\\55039\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+    "python.pythonPath": "D:\\Tensorflow\\tfenv\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "D:\\Tensorflow\\tfenv",
+        "D:\\Tensorflow\\tfen\\Lib\\site-packages"
+    ],
+    "python.autoComplete.addBrackets": true,
+
+}
